@@ -11,6 +11,12 @@
 	<?php include 'lib/header.php';?>
 </ul>
 </nav>
+<div class="sidebar">
+<div id="Sport">Sport</div>
+<div id="School">School</div>
+<div id="Familie">Familie</div>
+<div id="Werk">Werk</div>
+</div>
 <center>
 <h1>Info over mij</h1>
 <h2>Sport</h2>

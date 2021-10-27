@@ -17,9 +17,10 @@ margin-left: 30px;
 }
 
 body {
+height: 100%;
 background-size: 8px 8px;
-background-color: black;
-border: 4px solid blue;
+background-color: #2a2929;
+border: 4px solid #07071c7a;
 border-radius: 50px;
 margin-left: auto;
 margin-right: auto;
@@ -32,8 +33,20 @@ padding-right: 24px;
 }
 
 html {
-background: radial-gradient( circle, blue, black 50%, black 50%, black);
-background-size: 275px 250px;
+background: linear-gradient(-45deg, #d5d5d5, #a5a5a5, #787777, #585858);
+background-size: 400% 400%;
+animation: gradient 10s ease infinite;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 h1 {
@@ -60,9 +73,9 @@ color: white;
 
 nav ul {
 list-style-type:none;
-background: radial-gradient( circle, #0a0a96, black 35%, black);
+background: radial-gradient( circle, #0000009c 5%, #1b1b1b 35%, #2a2929);
 background-size: 1px 100px;
-border:3px solid Blue;
+border:3px solid #07071c7a;
 border-radius:50px;
 font-family:sans-serif;
 font-weight:bold;
@@ -87,7 +100,7 @@ text-decoration: underline;
 }
 
 nav ul li a.selected {
-color: Blue;
+color: #858585a8;
 }
 
 figure {
@@ -98,3 +111,19 @@ figcaption {
 	color: white;
 	font-style: italic;
 }	
+
+.sidebar {
+height: 100%;
+width: 100%;
+left: 0;
+top: 0;
+padding-top: 40px;
+}
+
+.sidebar div {
+color: white;
+padding: 8px;
+font-size: 24px;
+display: block;
+}
+
