@@ -127,3 +127,42 @@ font-size: 24px;
 display: block;
 }
 
+form {
+	color: white;
+}
+
+fieldset {
+  border: 2px solid #07071c7a;
+  margin: 20px 0;
+}
+
+fieldset legend {
+  color: white;
+}
+
+label,
+input,
+select {
+  display: inline-block;
+  margin: 10px 0;
+}
+
+fieldset label,
+fieldset input,
+fieldset select,
+fieldset textarea {
+  min-width: 320px;
+  vertical-align: top;
+}
+
+label {
+  text-align: right;
+}
+
+input[type="checkbox"],
+input[type="submit"] {
+  width: auto;
+  min-width: auto;
+}
+
+
