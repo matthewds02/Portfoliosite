@@ -1,0 +1,47 @@
+h1 {
+padding: center;
+color: white;
+font-family: serif;
+font-size: 4em;
+}
+
+a {
+	color: green;
+}
+
+h2 {
+color: white;
+font-family: serif;
+font-size: 2em;
+}
+
+h1:hover {
+color: green;
+text-decoration: underline;
+}
+
+h2::first-letter{
+color: green;
+}
+
+p{
+color: white;
+font-family: sans-serif;
+}
+body {
+	background: linear-gradient(-45deg, #FF0000, #240b36, #4A569D);
+	background-size: 400% 400%;
+	animation: gradient 10s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

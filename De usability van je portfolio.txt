@@ -1,0 +1,10 @@
+lijstje website:
+
+-De website is goed leesbaar.
+-Duideijk verschil tussen de titels en tekst.
+-Niet te veel tekst, de verschillende pagina's staan bovenaan duidelijk 
+naast elkaar en het is duidelijk op welke je nu zit vanwege aangepaste kleur.
+-Wat misschien wel beter zou kunnen is op de pagina 'Info over mij' een balk aan de zeikant voor de tussentitles. 
+Zodat je makkelijker naar bv mijn werkervaring kunt.
+Want nu moet je helemaal blijven scrollen en stel dat dit uitgebreid wordt kan het wel even duren of moeilijk zijn om iets bepaald ergens in de pagina te vinden.
+-Ook oogt de website zoals tijdens de feedback gezegd is een beetje ouderwets en lelijk dus ga ik de achtergrond en design nog aanpassen.
