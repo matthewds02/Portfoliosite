@@ -104,10 +104,6 @@ nav ul li a.selected {
 	color: #858585a8;
 }
 
-figure {
-	float: right;
-}
-
 figcaption {
 	color: white;
 	font-style: italic;
@@ -178,4 +174,19 @@ input[type="submit"] {
 .speciallink:hover {
 	text-decoration:underline;
 	color: #07071c7a;
+}
+
+.eentweede {
+	display: inline-block;
+	width: calc(50% - 22px);
+	margin: 20px 10px;
+	vertical-align: top;
+}
+
+.eentweede:hover {
+	background-color: #191822
+}
+
+.eentweede a {
+	text-align: center;
 }

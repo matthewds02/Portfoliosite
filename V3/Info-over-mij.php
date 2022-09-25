@@ -63,7 +63,7 @@
 						<th><a>KDG in Hoboken</a></th>
 					</tr>
 					<tr>
-						<th><a class="school 6">De Hoge school het 2de jaar, maar ben blijven zitten dus terug het 1ste</a></th>
+						<th><a class="school 6">De Hoge school het eerste jaar (2de keer)</a></th>
 						<th><a href="https://www.thomasmore.be/opleidingen/graduaat/programmeren-dag-avondonderwijs/programmeren-dagonderwijs/antwerpen-0" target="_blank">graduaat programmeren</a></th>
 						<th><a href="https://www.thomasmore.be/" target="_blank">Thomas More Sint-Andries</a></th>
 					</tr>

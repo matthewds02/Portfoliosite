@@ -12,7 +12,7 @@
 			</ul>
 		</nav>
 		<h1>Matthew De Schepper</h1>
-		<figure>
+		<figure style="margin-top: 0px; float: right;">
 			<img src="afbeeldingen/profielfoto.png" alt="Mijn profielfoto" />
 		</figure>
 		<p>Insta:	<a  class="speciallink" href="https://www.instagram.com/matthew_de_schepper/" target="_blank">matthew_de_schepper</a></p>
