@@ -24,7 +24,7 @@
         <div class="eentweede">
             <img src="afbeeldingen/Build-a-City2.png" alt="foto van het project">
             <div class="container">
-                <a  class="noline" href="det_proj.php"><h4><b>Build-a-City</b></h4></a>
+                <a  class="noline" href="det_proj.php"><h4><b>Build-a-City</b></h4>
                 <p>Dit was een groepsproject om met scrum te leren omgaan.</p></a>
             </div>
         </div>
