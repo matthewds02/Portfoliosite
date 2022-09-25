@@ -18,7 +18,7 @@
             <img src="afbeeldingen/bootstrappage2.png" alt="foto van website">
             <div class="container">
                 <a  class="noline" href="/bootstrap-website/index.html"><h4><b>Website over idool.</b></h4>
-                    <p>Een opdracht voor school.</p></a>
+                    <p>Een opdracht voor school. Om met bootstrap te werken.</p></a>
             </div>
         </div>
         <div class="eentweede">
