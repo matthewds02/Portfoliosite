@@ -17,14 +17,15 @@
 				<div class="eentweede">
 					<img src="afbeeldingen/bootstrappage2.png" alt="foto van website">
 					<div class="container">
-						<a  class="noline" href="/bootstrap-website/index.html"><h4><b>Website</b></h4>
-						<p>Dit is de website voor mijn portfolio, klik voor meer info.</p></a>
+						<a  class="noline" href="/bootstrap-website/index.html"><h4><b>Website over idool.</b></h4>
+						<p>Een opdracht voor school.</p></a>
   					</div>
 				</div>
 				<div class="eentweede">
 					<img src="afbeeldingen/Build-a-City2.png" alt="foto van het project">
 					<div class="container">
 						<a  class="noline" href="det_proj.php"><h4><b>Build-a-City</b></h4></a>
+                        <p>Dit was een groepsproject om met scrum te leren omgaan.</p></a>
   					</div>
 				</div>
 				<p>Of ga naar mijn <a class="speciallink" href="https://github.com/matthewds02" target="_blank">Github account</a> om alle projecten en code te bekijken.</p>
